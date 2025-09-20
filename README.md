@@ -26,10 +26,17 @@ This project applies **Data Science and Machine Learning** techniques to predict
 
 ---
 
-## ⚙️ Installation
-Clone the repository and install dependencies:
+## 📈 Results
+- Random Forest performed the best, with the least misclassifications.
+- Feature importance analysis showed which voice features most influenced predictions.
+- Compared models using confusion matrix, accuracy, and F1-score.
 
-```bash
-git clone https://github.com/your-username/parkinsons-disease-prediction.git
-cd parkinsons-disease-prediction
-pip install -r requirements.txt
+---
+
+## 🔮 Future Improvements
+- Hyperparameter tuning with GridSearchCV.
+- Try advanced models like XGBoost, LightGBM, or SVM.
+- Implement cross-validation for more robust results.
+- Build a Flask or FastAPI web app for real-time prediction.
+
+---
