@@ -40,3 +40,9 @@ This project applies **Data Science and Machine Learning** techniques to predict
 - Build a Flask or FastAPI web app for real-time prediction.
 
 ---
+
+## 👩‍💻 Author: 
+  # Sakshi Kumari
+  # 📌 Part of my Data Science & Machine Learning portfolio
+
+---
